@@ -30,4 +30,10 @@ public class Product {
 	}
 	
 	
+	@Override
+	public String toString() {
+		return "Product [pid=" + pid + ", pName=" + pName + ", pPrize=" + pPrize + "]";
+	}
+	
+	
 }
