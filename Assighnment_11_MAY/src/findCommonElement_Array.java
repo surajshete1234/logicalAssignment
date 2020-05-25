@@ -6,6 +6,7 @@ public class findCommonElement_Array {
 		int[] b = { 6, 7,11, 20, 80, 100 };
 		int[] c = { 3, 4, 15, 11,20, 30, 70, 80, 120 };
 		int[] d = {};
+		int[] q = {};
 
 		int size_A = a.length;
 		int size_B = b.length;
